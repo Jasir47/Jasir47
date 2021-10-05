@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed Jasir M K
 - 👀 I’m interested in Python , Data structures and Algorithms and Machine Learning
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate with software development
 - 📫 reach me jasirmk47@gmail.com
 
