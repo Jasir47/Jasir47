@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muhammed Jasir M K
 - 👀 I’m interested in Java , Data structures and Algorithms and Machine Learning
 - 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate with software development
 - 📫 reach me jasirmk47@gmail.com
 
 <!---
