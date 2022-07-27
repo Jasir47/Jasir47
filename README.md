@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed Jasir M K
 - 👀 I’m interested in Java , Data structures and Algorithms and Machine Learning
-- 🌱 I’m currently learning OOP
+- 🌱 I’m currently learning Spring Boot
 - 📫 reach me jasirmk47@gmail.com
 
 <!---
